@@ -7,7 +7,8 @@ In this project, I have performed various essential functions including:
 * Data preprocessing
 * Data analysis and visualization
 * Handling missing values
-Handling invalid values
-Feature extraction and feature selection
-Model training and evaluation
+* Handling invalid values
+* Feature extraction and feature selection
+* Model training and evaluation
+  
 For model training, I employed logistic regression to predict the classification of sonar signals. This project provides a thorough approach to handling and analyzing the dataset, ensuring robust and reliable predictive modeling.
