@@ -4,9 +4,9 @@ This folder contains the Sonar vs Mine data analysis and prediction project usin
 
 In this project, I have performed various essential functions including:
 
-Data preprocessing
-Data analysis and visualization
-Handling missing values
+* Data preprocessing
+* Data analysis and visualization
+* Handling missing values
 Handling invalid values
 Feature extraction and feature selection
 Model training and evaluation
